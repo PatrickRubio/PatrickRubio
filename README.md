@@ -33,7 +33,7 @@ Full-stack CRUD inventory system using Spring Boot + Angular.
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 **Languages:** Java, Python, JavaScript, SQL  
 **Backend:** Spring Boot, REST APIs  
 **Frontend:** Angular (learning), HTML/CSS  
