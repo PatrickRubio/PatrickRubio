@@ -45,4 +45,4 @@ Full-stack CRUD inventory system using Spring Boot + Angular.
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/patrick-rubio-a60587190/
-- Portfolio: https://portfolio-two-xi-45.vercel.app/
+- Portfolio: https://patrick-rubio-portfolio.com/
