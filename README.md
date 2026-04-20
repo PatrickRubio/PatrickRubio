@@ -27,9 +27,13 @@ Mobile travel-planning app using Room DB, MVVM, and XML UI.
 Cloud-hosted RSVP platform used by ~100 guests.  
 **Tools:** JavaScript, AWS Amplify
 
-### Inventory / Store Management App (In Progress)
-Full-stack CRUD inventory system using Spring Boot + Angular.  
-**Tools:** Java, Spring Boot, Angular, SQL
+### ReserveNow — Booking System Application (In Progress)
+Production-style backend for listings, bookings, and time-based services using Spring Boot.  
+**Tools:** Java, Spring Boot, SQL
+
+### AI Couples Finance & Budgeting App (In Progress)
+AI-focused couples budgeting and finance app currently being built with modern AI-assisted development tools.  
+**Tools:** AI, Full-Stack Development
 
 ---
 
