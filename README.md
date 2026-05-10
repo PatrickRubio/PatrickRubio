@@ -38,12 +38,13 @@ AI-focused couples budgeting and finance app currently being built with modern A
 ---
 
 ## Technologies & Tools
-**Languages:** Java, Python, JavaScript, SQL  
+**Languages:** Java, Python, TypeScript, JavaScript, SQL  
 **Backend:** Spring Boot, REST APIs  
 **Frontend:** Angular (learning), HTML/CSS  
 **Databases:** MySQL, SQLite (Room)  
-**Cloud:** AWS Amplify, Lambda, S3  
-**Tools:** IntelliJ, Git/GitHub, Maven, Postman  
+**Cloud:** AWS (Amplify, Lambda, Elastic Beanstalk, S3, DynamoDB)  
+**Tools:** Git, Visual Studio Code, IntelliJ, Maven, Postman, Docker
+**Concepts:** REST APIs, MVC, Object-Oriented Programming, Agile Methodology 
 
 ---
 
