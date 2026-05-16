@@ -2,52 +2,66 @@
   <img src="https://raw.githubusercontent.com/PatrickRubio/PatrickRubio/main/NewBanner.png" width="100%" />
 </p>
 
-Hi, I'm Patrick Rubio
+# Hi, I'm Patrick Rubio
 
-### Java Backend Developer | Spring Boot | SQL | AWS
+### Java Backend Developer | Spring Boot • SQL • AWS | AWS Certified
 
-I’m a software engineer focused on building backend systems, REST APIs, and full-stack applications.  
-Completed my B.S. in Software Engineering at WGU while building real-world projects using:
-
-- **Java, Spring Boot**
-- **SQL, MySQL, SQLite**
-- **JavaScript, Angular (learning)**
-- **AWS (Amplify, Lambda, S3)**
-- **Git, GitHub, IntelliJ**
+Software engineer focused on backend systems, REST APIs, and cloud-deployed applications. Currently building **ReserveNow**, a booking system, and actively exploring AI-assisted development workflows. I completed my B.S. in Software Engineering at WGU and my B.S. in Business Management at CSUN.
 
 ---
 
 ## Projects
 
-### Vacation Planner App — Java, Android, SQLite
-Mobile travel-planning app using Room DB, MVVM, and XML UI.  
-**Tools:** Java, SQLite, Android Studio
+### ReserveNow – Booking System
+**Java, Spring Boot, MySQL**
 
-### Wedding RSVP Platform — JavaScript, AWS Amplify
-Cloud-hosted RSVP platform used by ~100 guests.  
-**Tools:** JavaScript, AWS Amplify
-
-### ReserveNow — Booking System Application (In Progress)
-Production-style backend for listings, bookings, and time-based services using Spring Boot.  
-**Tools:** Java, Spring Boot, SQL
-
-### AI Couples Finance & Budgeting App (In Progress)
-AI-focused couples budgeting and finance app currently being built with modern AI-assisted development tools.  
-**Tools:** AI, Full-Stack Development
+A backend booking platform for time-based services like vacation rentals, event spaces, and appointments.
+- Email/password auth with secure user registration and login
+- RESTful APIs for availability checks, reservations, and scheduling conflict prevention
+- Relational schema design for users, listings, bookings, and service providers
 
 ---
 
-## Technologies & Tools
-**Languages:** Java, Python, TypeScript, JavaScript, SQL  
-**Backend:** Spring Boot, REST APIs  
-**Frontend:** Angular (learning), HTML/CSS  
-**Databases:** MySQL, SQLite (Room)  
-**Cloud:** AWS (Amplify, Lambda, Elastic Beanstalk, S3, DynamoDB)  
-**Tools:** Git, Visual Studio Code, IntelliJ, Maven, Postman, Docker
-**Concepts:** REST APIs, MVC, Object-Oriented Programming, Agile Methodology 
+### AI Couples Finance & Budgeting App *(In Progress)*
+**Full-Stack, AI-Assisted**
+
+A budgeting app for couples with shared expense tracking, goal setting, and spending insights built using modern AI development tools.
+
+---
+
+### Vacation Planner Mobile App
+**Java, Android, SQLite**
+
+Android travel planner with full itinerary management — destinations, dates, and trip notes with persistent local storage.
+- MVVM architecture with Room DB and XML UI
+- CRUD operations and multi-screen navigation
+- Tested on emulator and physical Android device
+
+---
+
+### Wedding RSVP Platform
+**JavaScript, HTML, CSS, AWS**
+
+Serverless RSVP platform built for a real wedding with ~100 guests.
+- Meal choice and plus-one management
+- AWS Lambda + DynamoDB backend for form handling and data storage
+- Fully responsive and mobile-friendly UI
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Java, JavaScript, TypeScript, Python, SQL |
+| **Backend** | Spring Boot, REST APIs |
+| **Frontend** | Angular, HTML, CSS |
+| **Databases** | MySQL, SQLite (Room) |
+| **Cloud** | AWS (Amplify, Lambda, Elastic Beanstalk, S3, DynamoDB) |
+| **Tools** | Git, IntelliJ, Maven, Postman, Docker |
 
 ---
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/patrick-rubio-a60587190/
 - Portfolio: https://patrick-rubio-portfolio.com/
+- LinkedIn: https://www.linkedin.com/in/patrick-rubio-a60587190/
