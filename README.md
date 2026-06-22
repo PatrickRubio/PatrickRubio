@@ -62,6 +62,7 @@ A full-stack RSVP platform built for a real wedding and used by more than 100 gu
 - Stored guest responses in Amazon DynamoDB
 - Deployed the responsive frontend through AWS Amplify
 - Configured custom-domain routing and cross-origin request handling
+- PASSWORD: Olowalu
 
 ---
 
