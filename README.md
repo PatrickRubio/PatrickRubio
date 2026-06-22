@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PatrickRubio/PatrickRubio/main/NewBanner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/PatrickRubio/PatrickRubio/main/Patrick Software Engineer Photo.png" width="100%" />
 </p>
 
 # Hi, I'm Patrick Rubio
