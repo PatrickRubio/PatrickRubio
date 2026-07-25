@@ -24,7 +24,7 @@ Before transitioning into software engineering, I managed a team of more than 30
 
 ## Featured Projects
 
-### BudgetPair — Couples Budgeting App
+### [BudgetPair — Couples Budgeting App](https://github.com/PatrickRubio/ReserveNow-Application)
 **React Native · Expo · TypeScript · Hono · tRPC · Upstash Redis · RevenueCat**
 
 A privacy-focused, local-first budgeting application that helps couples organize and coordinate their finances without requiring an account.
@@ -35,11 +35,10 @@ A privacy-focused, local-first budgeting application that helps couples organize
 - Uses Upstash Redis as temporary synchronization-room storage
 - Includes optional Google and Apple OAuth sign-in using PKCE
 - Integrates RevenueCat for lifetime Pro purchases and entitlement management
-- Currently being prepared for release on the Apple App Store
 
 ---
 
-### [ReserveNow — Booking System](https://github.com/PatrickRubio/ReserveNow-Application)
+### [ReserveNow — Booking System](https://apps.apple.com/us/app/budgetpair-couples-budgeting/id6779858073)
 **Java · Spring Boot · PostgreSQL · Spring Data JPA · Hibernate · REST APIs**
 
 A backend reservation system for managing users, service listings, availability, and time-based bookings.
