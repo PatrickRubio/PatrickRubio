@@ -107,4 +107,4 @@ A native Android travel-planning application for managing vacations and associat
 ## Connect With Me
 
 - [Portfolio](https://patrick-rubio-portfolio.com/)
-- [LinkedIn](https://www.linkedin.com/in/patrick-rubio-a60587190/)
+- [LinkedIn](https://www.linkedin.com/in/patrick-rubio/)
